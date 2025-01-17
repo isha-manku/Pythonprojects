@@ -1,1 +1,1 @@
-This contains python projects.
+THIS CONTAINS PYTHON PROJECTS.
